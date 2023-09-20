@@ -10,4 +10,4 @@ When the user has 100 samosas, they can buy the Party Pack upgrade, which produc
 When the user has 1000 samosas, they can buy the Full Feast upgrade, which produces 10x the amount of samosas per click.
 The game continues on forever and the user can continue to gain gigantic amounts of samosas. Yum!
 
-<img src='/react_lab2_result.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/web102_lab2_result.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
